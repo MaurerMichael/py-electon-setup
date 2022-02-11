@@ -1,0 +1,15 @@
+{
+  "name": "py-electon-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "electron": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Maurer",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.0.0"
+  }
+}
